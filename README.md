@@ -1,4 +1,4 @@
-# SlidePuzzleExplorerBoard
+# Slide Puzzle Explorer Board
 USB Integration Coursework (BI3UI16) Lab 2
 
 Sliding Puzzle in C# based on the legacy Microchip Application Libraries (v2011-06-02)- https://www.microchip.com/mplab/microchip-libraries-for-applications.
