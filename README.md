@@ -5,3 +5,4 @@ Sliding Puzzle in C# based on the legacy Microchip Application Libraries (v2011-
 
 The Microchip Explorer 16 development board with a PIC32MX460F512L PIM and the Microchip USB PICtail Plus Daughter Board (AC164131) were used in this project (please see firmware)
 
+PLEASE NOTE THAT THE FILE MUST BE DOWNLOADED FOR THE EXECUTABLE TO RUN
